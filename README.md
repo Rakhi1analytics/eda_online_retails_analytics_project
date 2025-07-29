@@ -6,13 +6,13 @@ This project analyzes real-world transactional data from a UK-based online retai
 ├──  online_retails.ipynb         # Jupyter notebook with full analysis
 ├── data/
 │   └── Online Retail.xlsx          # Raw dataset
-##Key Objectives
+## Key Objectives
 •	• Perform exploratory data analysis (EDA) to uncover sales trends and customer behavior
 •	• Identify top-performing countries and products
 •	• Engineer features like InvoiceHour and MonthYear for time-based analysis
 •	• Segment customers using RFM analysis (Recency, Frequency, Monetary)
 •	• Build classification models to predict customer segments
-##Dataset Overview
+## Dataset Overview
 • Source: UCI Machine Learning Repository
 • Size: 500,000+ records from a UK-based online retailer
 • Features: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
